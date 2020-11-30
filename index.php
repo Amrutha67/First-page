@@ -20,13 +20,7 @@
             </div>
             <div class="col col-12 col-sm-4 col-md-4 col-lg-4">
                 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat ipsum vitae esse cupiditate distinctio? Expedita non, porro voluptate commodi harum culpa tempora ratione omnis consequuntur voluptas nulla pariatur eaque sunt!
-
-
             </div>
-            
-    </div>
-
-
-    
+        </div>    
 </body>
 </html>
